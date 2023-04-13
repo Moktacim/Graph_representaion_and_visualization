@@ -19,7 +19,6 @@ while True:
 #         break
 # video.release()
 # cv2.destroyAllWindows()
-
     if video.get(cv2.CAP_PROP_POS_FRAMES) == video.get(cv2.CAP_PROP_FRAME_COUNT): #For counting the video frame, so that it does not stoppes automatically
         video.set(cv2.CAP_PROP_POS_FRAMES, 0)
     ret,img = video.read()
