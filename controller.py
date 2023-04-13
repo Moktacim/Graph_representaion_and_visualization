@@ -34,4 +34,3 @@ def ledLight(val):
     #     led_3.write(0)
     # if val['c_yellow'] == 0:
     #     led_3.write(0)
-#Serial.close()
