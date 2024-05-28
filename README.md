@@ -1,2 +1,5 @@
-# Color-detection-from-videos-by-using-Python-and-Arduino
-Detect the color from the video and show it to the LED(stripe)
+# Graph Neural Network
+
+Graph creation and visualization
+Discussed different types of matrix and visualization in Python interface.
+
